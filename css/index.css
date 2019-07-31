@@ -135,7 +135,7 @@ table {
   border-collapse: collapse;
 }
 table thead {
-  background: rgba(164,216,250,0.1);
+  background: rgba(57,180,205,0.1);
 }
 table th,
 table td {
@@ -980,7 +980,7 @@ footer.is-mobile {
 .article-sort-item__time {
   position: absolute;
   top: 0.1rem;
-  color: #a4d8fa;
+  color: #39b4cd;
 }
 .article-sort-item__title {
   display: block;
@@ -1004,7 +1004,7 @@ footer.is-mobile {
 }
 .category-list .category-list-count {
   margin-left: 0.4rem;
-  color: #a4d8fa;
+  color: #39b4cd;
 }
 .category-list .category-list-count:before {
   content: "(";
@@ -1125,7 +1125,7 @@ footer.is-mobile {
   cursor: pointer;
 }
 #pagination .space {
-  color: #a4d8fa;
+  color: #39b4cd;
 }
 #pagination .page-number {
   display: inline-block;
@@ -1448,7 +1448,7 @@ footer.is-mobile {
   margin-bottom: 1rem;
 }
 a {
-  color: #a4d8fa;
+  color: #39b4cd;
   -webkit-transition: all 0.2s;
   -moz-transition: all 0.2s;
   -o-transition: all 0.2s;
@@ -1680,7 +1680,7 @@ img:hover {
   font-size: 0.8rem;
 }
 #sidebar .author-info__description {
-  color: #a4d8fa;
+  color: #39b4cd;
 }
 #sidebar .author-info-articles {
   padding: 0.2rem 0;
